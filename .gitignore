@@ -1,0 +1,13 @@
+node_modules/
+node_modules/*
+node_modules
+
+*.log
+data/beebs_filters.json
+data/*.sqlite
+data/*.sqlite-*
+
+.env.local
+.env
+
+.DS_Store

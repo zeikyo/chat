@@ -1,0 +1,13 @@
+﻿Export date: 2026-04-28 00:55:11 +02:00
+Workspace: C:\Users\ludovic\Desktop\vinted-bot\vinted-discord-bot-main
+
+Node processes:
+
+
+ProcessId    : 17244
+CommandLine  : "C:\Program Files\nodejs\node.exe" main.js 
+CreationDate : 28/04/2026 00:50:34
+
+
+
+
